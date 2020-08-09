@@ -2,7 +2,7 @@
 
 # Installation
 This code runs python 3.
-Jupyter notebook was installed using Anaconda: https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html
+Jupyter notebook was installed using Anaconda: https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html <br />
 XGBoost package: https://xgboost.readthedocs.io/en/latest/get_started.html
 
 # Data
@@ -18,13 +18,13 @@ Kaggle and get some insights from it. I picked the Seattle and Boston Airbnb dat
 3. What features are important for one to be a Superhost?
 
 # Files
-Project1.ipynb: Main notebook which runs all the analysis.
-seattle_airbnb/*.csv: Contains files for the Seattle airbnb data.
-boston_airbnb/*.csv: Contains files for the Boston airbnb data.
+1. Project1.ipynb: Main notebook which runs all the analysis.
+2. seattle_airbnb/*.csv: Contains files for the Seattle airbnb data.
+3. boston_airbnb/*.csv: Contains files for the Boston airbnb data.
 
 # Results
 Article on Medium was posted: https://medium.com/@vinaymaddali/seattle-and-boston-airbnb-price-and-superhost-analysis-38a42418721f
 
 # Acknowledgements
-Thanks to Udacity for this project and pointing me to this dataset.
+Thanks to Udacity for this project and pointing me to this dataset. <br />
 Thanks to Kaggle and the contributors for the data.
